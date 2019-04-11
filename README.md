@@ -1,2 +1,2 @@
 # golang-hackerrank
-Solving hackerrank problems in Golang
+Solving hackerrank problems in Golang to teach myself Go
